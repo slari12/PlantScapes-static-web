@@ -252,7 +252,8 @@ h1 {
 #schem {
   margin-left: 800px;
   margin-top: 0px;
-  width: 799px;
+  width: 719px;
+  height: 800px;
 }
 #section3 hr {
   margin-top: 35px;
@@ -270,6 +271,11 @@ h1 {
   font-weight: 500;
 }
 #palm {
+  margin-left: 0px;
+  width: 799px;
+  height: 710px;
+}
+#plant{
   margin-left: 0px;
   width: 799px;
 }
